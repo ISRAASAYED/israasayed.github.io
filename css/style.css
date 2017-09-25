@@ -8858,7 +8858,7 @@ section {
   margin: 70px 0 25px;
   z-index: 0; }
   .title-text h2 {
-    font-family: "Amatic SC", "NeoSansArabic", cursive;
+    font-family: "AmaticSC", "NeoSansArabic", cursive;
     color: #002c5c;
     font-weight: bold;
     margin: 0;
@@ -9006,7 +9006,7 @@ section {
     margin-bottom: 0; }
   .opening h1 {
     display: inline-block;
-    font-family: "Amatic SC", "NeoSansArabic", cursive;
+    font-family: "AmaticSC", "NeoSansArabic", cursive;
     font-weight: bold;
     font-size: 95px;
     margin: 0;
@@ -9017,7 +9017,7 @@ section {
     transform: rotate(-15deg);
     color: #f44500; }
   .opening h2 {
-    font-family: "Amatic SC", "NeoSansArabic", cursive;
+    font-family: "AmaticSC", "NeoSansArabic", cursive;
     font-weight: bold;
     margin: 0;
     font-size: 60px; }
@@ -9041,7 +9041,7 @@ section {
   .sitemap p, .sitemap h4, .sitemap li, .sitemap a {
     color: white; }
   .sitemap h4 {
-    font-family: "Amatic SC", "NeoSansArabic", cursive;
+    font-family: "AmaticSC", "NeoSansArabic", cursive;
     font-size: 40px;
     font-weight: bold; }
   .sitemap:before {
@@ -9119,7 +9119,7 @@ footer {
   text-align: center;
   margin: 0 auto;
   color: #fff;
-  font-family: "Amatic SC", "NeoSansArabic", cursive;
+  font-family: "AmaticSC", "NeoSansArabic", cursive;
   font-weight: bold;
   text-shadow: 1px 11px 7px #000; }
 
